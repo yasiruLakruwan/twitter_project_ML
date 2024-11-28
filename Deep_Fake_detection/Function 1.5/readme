@@ -1,0 +1,1 @@
+retrain model with the 150 real and 150 fake images. check the model with finetuned one. here we used the saved train model and re train the new data.
